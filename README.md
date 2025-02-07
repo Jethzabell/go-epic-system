@@ -64,7 +64,7 @@ The system accepts media processing jobs from clients, processes them asynchrono
       | (Persistent   |                  | (Caching Job  |
       |  Storage)     |                  |  Statuses)    |
       +---------------+                  +---------------+
-
+```
 ## 3. Component Details & Interactions
 
 ### A. Clients & Front End
